@@ -1,0 +1,6 @@
+In 0 string1non-negative elements
+In 1 string3non-negative elements
+In 2 string2non-negative elements
+In 3 string2non-negative elements
+In 4 string4non-negative elements
+Arithmetic mean of the positive elements of the matrix = 596
